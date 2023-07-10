@@ -3,7 +3,7 @@
 A simple calendar application that allows users to schedule events for each hour of a typical working day. The application provides a visual representation of the day's schedule and allows users to save and persist their events.
 
 ## Table of Contents
-
+- [Web Link](https://jtuvek.github.io/Work-Day-Scheduler/)
 - [Description](#description)
 - [User Story](#user-story)
 - [Features](#features)
