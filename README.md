@@ -9,7 +9,6 @@ A simple calendar application that allows users to schedule events for each hour
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Description
 
@@ -50,7 +49,3 @@ The Work Day Scheduler is built with the following technologies:
 - JavaScript
 - jQuery
 - Day.js
-
-## License
-
-The Work Day Scheduler is licensed under the [MIT License](LICENSE).
